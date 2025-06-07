@@ -44,7 +44,7 @@ I surveyed **203 students from 20+ states**, using a structured questionnaire an
 - **Design:** Quantitative, cross-sectional survey  
 - **Sample Size Target:** 384 (203 reached)  
 - **Sampling:** Convenience via social media & WhatsApp  
-- **Instrument:** Google Forms (validated through a 30-student pilot)  
+- **Instrument:** Survey CTO & Google Forms (validated through a 30-student pilot)  
 - **Analysis Tools:** SPSS & Excel  
 - **Statistical Methods:** Chi-square, t-tests, Pearson correlation (α = 0.05)
 
