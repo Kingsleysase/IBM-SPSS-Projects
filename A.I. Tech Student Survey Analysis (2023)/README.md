@@ -107,7 +107,7 @@ I followed a stepwise approach:
 
 - **Learning Environment**: Universally positive across programs, with no biases  
 - **Instruction Quality**: Perceived uniformly across different durations  
-- **Marketing Channel Effectiveness**: Instagram is a **key referral source**—a channel to scale  
+- **Marketing Channel Effectiveness**: Instagram is a **key referral source**, a channel to scale  
 - **Instruction & Environment Link**: Strong correlation signals that **investing in teaching** boosts overall satisfaction  
 - **Program Choice Influenced by Duration**: Shorter vs longer-term commitment patterns may guide curriculum marketing strategies
 
@@ -127,7 +127,7 @@ Working in SPSS was a great way to reinforce my statistical fundamentals:
 - From navigating output interpretation to translating numbers into strategy  
 - From technical hypothesis testing to **real-world education planning**
 
-This project reminded me that even **simple data**—if explored right—can spark **big decisions**.
+This project reminded me that even **simple data**, if explored right, can spark **big decisions**.
 
 ---
 
