@@ -1,1 +1,1 @@
-The analysis done at the backend
+The analysis/visuals created from the backend analysis
